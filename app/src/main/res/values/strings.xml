@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SnapShots</string>
+    <string name="home_title">Inicio</string>
+    <string name="add_title">Agregar</string>
+    <string name="profile_title">Perfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="publicar">Publicar</string>
+    <string name="post_masage_title">Seleccione una imagen</string>
+    <string name="hint_title">Titulo de la instantanea</string>
+    <string name="post_masage_valid_title">Por favor añada un titulo</string>
+    <string name="message_post">Publicada</string>
+    <string name="message_error_post">Error al publicar</string>
+</resources>
